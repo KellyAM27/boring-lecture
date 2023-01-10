@@ -1,0 +1,16 @@
+h2.intro  {
+  font-family:'Times New Roman', Times, serif;
+  font-size: 40px;
+  color: rgb(117, 19, 117);
+}
+
+p.intro {
+  font-style: italic;
+  font-size: 30px;
+  background-color: rgb(164, 164, 235)
+}
+
+img.intro {
+  font-family: papyrus;
+  color: violet;
+}
